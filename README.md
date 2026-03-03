@@ -10,9 +10,15 @@ A nostalgic piece of early 2000s Thai internet history - an automated voting scr
 
 MThai offered a "sticker" (สติกเกอร์) voting system where users could vote for their favorite images in various categories. This was a popular form of online engagement in Thailand's early social internet era, before the dominance of social media platforms like Facebook and LINE.
 
-## About This Script
+## Attribution
 
-This Perl script was written during that era to demonstrate vote manipulation techniques:
+I am **not the original author** of this script. I found it in my old archives from back in the day - I honestly can't remember where I got it from or who wrote it. Preserving it here as a piece of Thai internet history.
+
+If you are the original author and would like to be credited, please reach out.
+
+## Technical Details
+
+This Perl script demonstrates vote manipulation techniques from that era:
 
 - **Language**: Perl (was the dominant web scripting language of that time)
 - **Libraries**: `LWP::UserAgent`, `HTTP::Request::Common` - the standard HTTP toolkit for Perl
