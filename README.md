@@ -25,13 +25,15 @@ This Perl script demonstrates vote manipulation techniques from that era:
 - **Technique**: Proxy rotation to bypass IP-based voting restrictions
 - **User Agent Spoofing**: Impersonated Internet Explorer 5.0 on Windows 98
 
-### Files
+### Project Structure
 
-| File | Description |
-|------|-------------|
-| `votemthai.pl` | Main voting script |
-| `list1.txt` - `list13.txt` | Proxy server lists (IP:port format) |
-| `1.bat` - `13.bat` | Batch launchers for different proxy lists |
+```
+├── votemthai.pl        # Main voting script
+├── proxies/
+│   └── list1-13.txt    # Proxy server lists (IP:port format)
+├── 1.bat - 13.bat      # Batch launchers for different proxy lists
+└── README.md
+```
 
 ### Usage (Historical)
 
@@ -39,7 +41,7 @@ This Perl script demonstrates vote manipulation techniques from that era:
 perl votemthai.pl <proxy_list> <category> <sticker_id>
 
 :: Example
-perl votemthai.pl list10.txt vip 145004
+perl votemthai.pl proxies/list10.txt vip 145004
 ```
 
 ## Educational Purpose

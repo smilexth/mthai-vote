@@ -1,1 +1,1 @@
-perl votemthai.pl list4.txt vip 145004
+perl votemthai.pl proxies/list4.txt vip 145004
