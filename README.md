@@ -31,7 +31,8 @@ This Perl script demonstrates vote manipulation techniques from that era:
 ├── votemthai.pl        # Main voting script
 ├── proxies/
 │   └── list1-13.txt    # Proxy server lists (IP:port format)
-├── 1.bat - 13.bat      # Batch launchers for different proxy lists
+├── batch/
+│   └── 1-13.bat        # Batch launchers for different proxy lists
 └── README.md
 ```
 

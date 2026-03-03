@@ -1,1 +1,0 @@
-perl votemthai.pl proxies/list13.txt vip 145004

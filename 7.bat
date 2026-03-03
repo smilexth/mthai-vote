@@ -1,1 +1,0 @@
-perl votemthai.pl proxies/list7.txt vip 145004

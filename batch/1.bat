@@ -1,0 +1,1 @@
+perl ../votemthai.pl proxies/list1.txt vip 145004
