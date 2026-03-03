@@ -1,0 +1,1 @@
+perl votemthai.pl list9.txt vip 145004

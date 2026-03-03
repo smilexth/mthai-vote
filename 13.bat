@@ -1,0 +1,1 @@
+perl votemthai.pl list13.txt vip 145004
